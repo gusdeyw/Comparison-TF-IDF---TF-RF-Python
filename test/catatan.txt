@@ -1,0 +1,21 @@
+pip install pandas
+
+pip install nltk
+
+pip install tqdm
+
+pip install -U scikit-learn
+
+
+Alur instalasi :
+1. Install Python.
+2. Install Visual Studio Code.
+3. Install Extentions Python di VSCode.
+4. Install Plugin yang ada di list diatas.
+5. Baru jalankan program Python.
+
+
+Prosesnya :
+1. Jalanakan preprocess.py
+2. Hapus beberapa data di Excel file "preprocessed_documents.xlsx" sisakan setidaknya kurang dari 100
+3. Baru jalankan tf-idf atau tf-rf.py 
